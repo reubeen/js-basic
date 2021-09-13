@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+h2 {
+  font-size: 60px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  margin-left: 100px;
+}
+button {
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: black;
+  font-weight: bold;
+  width: 220px;
+  margin-bottom: 5px;
+}
+#increment-btn {
+  background: cyan;
+}
+#save-btn {
+  background: wheat;
+}
